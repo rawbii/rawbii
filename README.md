@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.uhhrobbie.tv](github.uhhrobbie.tv)
 
-- ⚡ Fun fact **i have created a custom discord bot with over 300+ commands!**
+- ⚡ Fun fact **i have created a custom discord bot with command supporting moderation, automod, music, fun, and more!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
